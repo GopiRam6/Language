@@ -13,6 +13,10 @@ public class LanguageInfo {
 		
 		System.out.println("hindiLanguage : Hindi");
 	}
+public void bangaleLanguage() {
+		
+		System.out.println("bangaleLanguage : bangale");
+	}
 }
 
 
